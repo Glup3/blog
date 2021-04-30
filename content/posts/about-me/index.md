@@ -36,7 +36,7 @@ My hobbies besides coding are:
 - Watching [anime](https://anilist.co/user/glup3/), reading manga & light novels
 - Learning Japanese (JLPT 4 currently)
 
-{{< figure src="/images/about-me-01.jpg" caption="Phuc Tran in a suit" >}}
+{{< figure src="author.jpg" caption="Phuc Tran in a suit" >}}
 
 ## Languages and Technologies
 
