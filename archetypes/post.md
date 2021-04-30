@@ -3,15 +3,15 @@ title: "{{ replace .Name "-" " " | title }}"
 date: {{ .Date }}
 # weight: 1
 # aliases: ["/first"]
-tags: ["first"]
-author: "Me"
-# author: ["Me", "You"] # multiple authors
-showToc: true
+tags: ["tech", "tutorials"]
+categories: ["tech", "tutorials"]
+author: "Phuc Tran" # multiple authors: ["Me", "You"]
+showToc: false
 TocOpen: false
 draft: true
 hidemeta: false
 comments: false
-description: "Desc Text."
+# description: "Description Text."
 disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
@@ -21,13 +21,13 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 cover:
-    image: "<image path/url>" # image path/url
-    alt: "<alt text>" # alt text
-    caption: "<text>" # display caption under cover
+    image: "images/imageName" # or URL
+    alt: "<alt text>"
+    caption: "<text>"
     relative: false # when using page bundles set this to true
     hidden: true # only hide on current single page
 editPost:
-    URL: "https://github.com/<path_to_repo>/content"
-    Text: "Suggest Changes" # edit text
-    appendFilePath: true # to append file path to Edit link
+    URL: "https://github.com/Glup3/blog/content/{{ .Name }}"
+    Text: "Suggest Changes"
+    appendFilePath: true
 ---
