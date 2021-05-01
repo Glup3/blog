@@ -1,18 +1,17 @@
 ---
-title: "About Me"
+title: 'About Me'
 date: 2021-04-30T15:51:39+02:00
-# weight: 1
+weight: 1
 # aliases: ["/first"]
-tags: ["tech", "tutorials", "about", "life", "hobby"]
-categories: ["tech", "tutorials"]
-author: "Phuc Tran"
+tags: ['about', 'life', 'hobby']
+# categories: []
+author: 'Phuc Tran'
 # author: ["Me", "You"] # multiple authors
 showToc: false
 TocOpen: false
 draft: false
 hidemeta: false
 comments: false
-disableHLJS: true # to disable highlightjs
 disableShare: false
 disableHLJS: false
 hideSummary: false
@@ -21,9 +20,9 @@ ShowReadingTime: true
 ShowBreadCrumbs: true
 ShowPostNavLinks: true
 editPost:
-    URL: "https://github.com/Glup3/blog/content"
-    Text: "Suggest Changes"
-    appendFilePath: true
+  URL: 'https://github.com/Glup3/blog/content'
+  Text: 'Suggest Changes'
+  appendFilePath: true
 ---
 
 My Name is Phuc Tran. I am living in Austria and my parents are from Vietnam.
