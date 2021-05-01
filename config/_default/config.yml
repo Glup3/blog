@@ -11,12 +11,11 @@ buildExpired: false
 
 params:
   env: production # to enable google analytics, opengraph, twitter-cards and schema.
-  title: ExampleSite
-  description: 'ExampleSite description'
+  title: "Glup3's Blog"
+  description: 'Personal blog about tech and useful guides'
   keywords: [Blog, Portfolio, PaperMod]
-  author: Me
-  # author: ["Me", "You"] # multiple authors
-  images: ['<link or path of image for opengraph, twitter-cards>']
+  author: 'Phuc Tran'
+  # images: ['<link or path of image for opengraph, twitter-cards>']
   DateFormat: 'January 2, 2006'
   defaultTheme: auto # dark, light
   disableThemeToggle: false
@@ -33,14 +32,14 @@ params:
   showtoc: false
   tocopen: false
 
-  assets:
-    # disableHLJS: true # to disable highlight.js
-    # disableFingerprinting: true
-    # favicon: '<link / abs url>'
-    # favicon16x16: '<link / abs url>'
-    # favicon32x32: '<link / abs url>'
-    # apple_touch_icon: '<link / abs url>'
-    # safari_pinned_tab: '<link / abs url>'
+  # assets:
+  #   disableHLJS: true # to disable highlight.js
+  #   disableFingerprinting: true
+  #   favicon: '<link / abs url>'
+  #   favicon16x16: '<link / abs url>'
+  #   favicon32x32: '<link / abs url>'
+  #   apple_touch_icon: '<link / abs url>'
+  #   safari_pinned_tab: '<link / abs url>'
 
   # logo-image and title
   # label:
@@ -65,8 +64,8 @@ params:
 
   # home-info mode
   homeInfoParams:
-    Title: "Hi there \U0001F44B"
-    Content: Welcome to my blog
+    Title: "こんにちは (konnichiwa) \U0001F647"
+    Content: 'Welcome to my blog! You will find all sorts of useful guides and tutorials here. You can use the the blazingly fast search to look for posts!'
 
   socialIcons:
     - name: twitter
