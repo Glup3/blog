@@ -68,12 +68,16 @@ params:
     Content: 'Welcome to my blog! You will find all sorts of useful guides and tutorials here. You can use the blazingly fast search to look for posts!'
 
   socialIcons:
-    - name: twitter
-      url: 'https://twitter.com/'
-    - name: stackoverflow
-      url: 'https://stackoverflow.com'
     - name: github
       url: 'https://github.com/Glup3'
+    - name: linkedin
+      url: 'https://www.linkedin.com/in/glup3-tran/'
+    - name: stackoverflow
+      url: 'https://stackoverflow.com/users/11143225/glup3'
+    - name: twitch
+      url: 'https://www.twitch.tv/glup3'
+    - name: youtube
+      url: 'https://www.youtube.com/devglup3'
 
   # analytics:
   #   google:
