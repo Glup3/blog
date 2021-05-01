@@ -65,7 +65,7 @@ params:
   # home-info mode
   homeInfoParams:
     Title: "こんにちは (konnichiwa) \U0001F647"
-    Content: 'Welcome to my blog! You will find all sorts of useful guides and tutorials here. You can use the the blazingly fast search to look for posts!'
+    Content: 'Welcome to my blog! You will find all sorts of useful guides and tutorials here. You can use the blazingly fast search to look for posts!'
 
   socialIcons:
     - name: twitter
